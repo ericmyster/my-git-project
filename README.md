@@ -5,7 +5,7 @@
 ## Im on a branch.
 ## Im on another branch.
 
-Made changes for git pull demo
+My scary merge conflict code
 
 Made more changes for git pull demo
 
